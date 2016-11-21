@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/GK.PNG" width="200">
 
 # GaugeKit
-##Kit for building custom gauges + easy reproducible Apple's style ring gauges.
+##Kit for building custom gauges + easy reproducible Apple's style ring gauges (SWIFT 3).
 
 <img src="https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/appleFitness.png" width="250">
 ->
@@ -34,7 +34,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 use_frameworks!
 
-pod "GaugeKit"
+pod 'GaugeKit', :git => 'https://github.com/skywinder/GaugeKit.git', :tag => '0.4.0'
 ```
 
 ### Carthage
