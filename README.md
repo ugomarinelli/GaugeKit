@@ -14,9 +14,6 @@
 ->
 <img src="https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/gauge.gif" width="200">
 
-<img src="http://www.giphy.com/gifs/26ybuVnzUVUbHObU4"  width="200">
-
-
 
 ## Example Usage
 
